@@ -1,0 +1,28 @@
+// ============================================================================
+//  GEOGUESSER SA-MP - Lista de locaciones   (va en scriptfiles/)
+// ============================================================================
+//  Una locacion por linea, separada por comas:
+//
+//      x, y, z, cx, cy, cz, nombre_de_la_zona
+//
+//  x, y, z     = donde esta la camara. Este es el punto que el jugador tiene
+//                que adivinar en el mapa (se mide la distancia en X/Y).
+//  cx, cy, cz  = hacia donde mira la camara.
+//  nombre      = lo que se muestra al terminar la ronda (sin tildes ni enie).
+//
+//  Las lineas vacias y las que empiezan con // o # se ignoran.
+//  Solo exteriores (interior 0).
+//
+//  TIP: ponete en el lugar, acomoda la vista y usa /geoguardar <nombre>
+//  (admin RCON) para agregar la linea automaticamente.
+//
+//  OJO: las de abajo son de EJEMPLO, con coordenadas aproximadas. Ajustalas
+//  en el juego hasta que la vista quede como la queres.
+// ============================================================================
+
+2476.00, -1665.00, 20.00, 2495.30, -1688.00, 14.00, Los Santos - Ganton (Grove Street)
+2650.00, -1690.00, 20.00, 2695.60, -1704.60, 12.00, Los Santos - Estadio de Ganton
+1642.30, -2333.50, 15.00, 1690.00, -2310.00, 14.00, Los Santos - Aeropuerto
+-1620.00, 690.00, 20.00, -1605.00, 711.00, 14.00, San Fierro - Comisaria del centro
+2020.00, 1560.00, 20.00, 2000.00, 1540.00, 14.00, Las Venturas - Barco pirata
+2290.00, 2400.00, 18.00, 2290.00, 2430.00, 11.00, Las Venturas - Comisaria
